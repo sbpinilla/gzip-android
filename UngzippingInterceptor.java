@@ -1,4 +1,3 @@
-package co.com.pagatodo.core.network;
 
 import androidx.annotation.NonNull;
 
